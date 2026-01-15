@@ -7,7 +7,7 @@ The project brings together data processing, exploratory analysis, visualization
 index construction to study how inflation behaves across components and over time.
 
 ### 1. Data
-Contains raw and processed CPI datasets used across the analysis and index construction.
+Contains raw and processed CPI datasets used across the analysis.
 
 ### 2. Inflation Index Work
 Includes the methodology, code, and supporting analysis used to construct a composite inflation index, along with seasonal adjustment procedures.
